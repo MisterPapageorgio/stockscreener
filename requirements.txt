@@ -1,0 +1,8 @@
+streamlit>=1.63,<2
+streamlit-aggrid==1.2.1.post2
+pandas>=2.2
+numpy>=1.26
+sqlalchemy>=2.0
+yfinance>=0.2.40
+requests>=2.32
+plotly>=5.24
