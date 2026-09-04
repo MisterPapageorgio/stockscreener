@@ -1,0 +1,1 @@
+"""Quality Dip Scanner package."""

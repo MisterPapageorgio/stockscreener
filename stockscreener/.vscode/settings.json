@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^Get-Location; python --version; python -m stockscreener\\.cli$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
